@@ -38,10 +38,16 @@ See <https://docs.aws.amazon.com/accounts/latest/reference/root-user-access-key.
 
 ### Jenkins
 
-## DEFINE DYNAMO DB SCHEMA
+## DEFINE DB TABLE SCHEMAS
 
 ## UPDATE API
 
 ### ADD ENDPOINTS
 
 ### ADD FUNCTIONALITY
+
+## UPDATE UI
+
+## ADD EXTRA REPOSITORIES
+
+### POSTMAN
