@@ -1,5 +1,11 @@
 # BOILERPLATE
 
+Remaining TODOs:
+
+- Add logging and monitoring using Fluentd or Splunk configurations
+
+- Create a dashboard for monitoring product adoption metrics somehow
+
 ## CREATE ACCOUNTS
 
 ### GMAIL
